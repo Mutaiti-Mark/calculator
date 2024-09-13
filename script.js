@@ -14,6 +14,7 @@ function divideNums(a,b){
     return round(a/b)
 }
 
+
 const numDisplay = document.querySelector(".display")
 
 const numOne = document.querySelector(".one")
